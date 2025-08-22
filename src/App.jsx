@@ -14,7 +14,6 @@ function App() {
 
       let updatedStudents = [...students];
       updatedStudents.push(studentName);
-    //Uppdatera state
       setStudents(updatedStudents)
 
     // //Alternativ 2
